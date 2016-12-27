@@ -1,0 +1,26 @@
+{
+  "name": "simple-store",
+  "version": "1.0.0",
+  "description": "here",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embark-studio/simple-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/embark-studio/simple-store/issues"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "mock-browser": "^0.92.12"
+  },
+  "homepage": "https://github.com/embark-studio/simple-store#readme"
+}
